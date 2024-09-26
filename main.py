@@ -1,2 +1,3 @@
 
-print("Hello world hackers ")
+while 1:
+    print ("For ever Script Running")
